@@ -53,6 +53,6 @@ a:hover {
   color: red;
 }
 
-button:hover {
+button:hover, input[type=submit]:hover {
   background-color: red;
 }
