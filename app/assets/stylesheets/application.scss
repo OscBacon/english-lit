@@ -13,11 +13,26 @@
  *= require_tree .
  *= require_self
  */
+ $turquoise: #04caff;
 body {
   font-family: arial, sans-serif;
 }
 
 a {
   text-decoration:none;
-  color: #04caff;
+  color: $turquoise;
+}
+
+input[type=submit], button {
+  background-color: $turquoise;
+    border: none;
+    color: white;
+    padding: 15px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;
 }
