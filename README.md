@@ -1,24 +1,11 @@
-# README
+# English Lit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Made with Ruby 2.3.3 and Rails 5.1.1
 
-Things you may want to cover:
+A simple website to allow users to create essay topics and have other comment their thesis statements, while adding their name in order for them to be contacted if one would have any question about their thesis
 
-* Ruby version
+Website available at: https://english-lit.herokuapp.com/essays
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Why it failed
+* People already use Google Docs and find it more convenient to share information
+* The commenting system was considered to be easier on a Facebook post as you could more directly contact the commenter
